@@ -35,5 +35,5 @@ To mention about its strength, the present idea is just a prototype which could 
  # Credits
 I whole heartedly thank each and every one who are behind the frame work of Fracktal Works’ Innovative Engineering Course and the whole learning community. It really bought an innovation in an ordinary mind.
 
-# Please do refer the below video link for complete understanding of Build overview:
+# Please do refer the below video for complete understanding of Build overview:
 https://user-images.githubusercontent.com/90152261/132219619-3458d0d5-c83a-4a6a-bed2-94e6f92ded0a.mp4
