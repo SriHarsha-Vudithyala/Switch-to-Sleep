@@ -31,7 +31,7 @@ To mention about its strength, the present idea is just a prototype which could 
 # Key concepts Involved
 - 3D- Printing- Model making on AutoCAD Fusion 360
 - Pulleys and Direction of Force Action
-- 
+
  # Credits
 I whole heartedly thank each and every one who are behind the frame work of Fracktal Works’ Innovative Engineering Course and the whole learning community. It really bought an innovation in an ordinary mind.
 
