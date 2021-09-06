@@ -1,3 +1,7 @@
+
+
+
+
 # Switch-to-Sleep
 A build idea to operate an electrical from in a room a little distant away from it
 
@@ -27,7 +31,7 @@ Involving the concepts of Mechanical Design & 3D Printing, I got to make the mod
 
 And then, attached the thread over the pulley and then the issue was cleared. Now, the switch can be operated even if the place of control is distant from the switchboard.Using pulley will result in change in the direction of force action and thus making the brainstormed idea come true.
 Please do refer the below video link for complete understanding of Build overview:
-## https://youtu.be/D2yMpgLTvkc 
+##  https://user-images.githubusercontent.com/90152261/132219619-3458d0d5-c83a-4a6a-bed2-94e6f92ded0a.mp4
 To mention about its strength, the present idea is just a prototype which could accomodate many changes to make it more reliable. 
 # Key concepts Involved
 - 3D- Printing- Model making on AutoCAD Fusion 360
