@@ -1,5 +1,5 @@
 # Switch-to-Sleep
-A build idea to operate an electrical from in a room a little distant away from it
+A build idea to operate an electrical switch in a room from a little distant away from it
 
 # Intention behind the build
 To control an electrical switch in the switch board from a distance away from it.
